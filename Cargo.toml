@@ -1,0 +1,6 @@
+[package]
+name = "clippy_bug"
+version = "0.1.0"
+authors = ["Aaron Hill <aa1ronham@gmail.com>"]
+
+[dependencies]
